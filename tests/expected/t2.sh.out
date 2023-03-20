@@ -1,0 +1,17 @@
+Reinitializaion test:
+Init barrier id: 19 width: 2 ... result 0
+Init barrier id: 19 width: 2 ... result -1 errno: 17
+...done.
+
+Destroying unitialized:
+Destroying barrier id: 19 ... result 0
+Destroying barrier id: 19 ... result -1 errno:22
+...done.
+
+Waiting on unitialized:
+...done.
+
+Destroying barrier that is being used:
+Destroying barrier id: 19 ... result -1 errno:16
+Wait result: 0, errno 16
+...done.
