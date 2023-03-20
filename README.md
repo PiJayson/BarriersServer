@@ -1,4 +1,4 @@
-# **SO Shell Terminal** ![version](https://img.shields.io/badge/version-v0.4-yellow.svg) ![nvm version](https://img.shields.io/badge/tests-passed-green.svg)
+# **Barriers Server** ![version](https://img.shields.io/badge/version-v0.4-yellow.svg) ![nvm version](https://img.shields.io/badge/tests-passed-green.svg)
 <!-- ![nvm version](https://img.shields.io/badge/tests-3%20passed%20/%202%20failed-red.svg) -->
 
 
